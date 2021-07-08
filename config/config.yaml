@@ -1,5 +1,5 @@
 # your domain
-domain: example.com
+domain: cnmb02.heroku.com
 
 # database url
 database_url: ""
