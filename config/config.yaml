@@ -1,5 +1,5 @@
 # your domain
-domain: cnmb02.heroku.com
+domain: cnmb02.herokuapp.com
 
 # database url
 database_url: ""
@@ -11,6 +11,6 @@ cf_key: ""
 # source definition file
 source-files:
   # use local file
-  - source.yaml
+  -./config/ source.yaml
   # use web file
-  - https://example.com/source.yaml
+  - https://cnmb02.herokuapp.com/source.yaml
